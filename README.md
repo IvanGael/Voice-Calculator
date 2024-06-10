@@ -1,0 +1,1 @@
+Voice-Activated Calculator that performs arithmetic(addition, subtraction, multiplication, division )operations based on voice commands and also provide spoken feedback for results.
